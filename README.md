@@ -1,3 +1,7 @@
+> [!WARNING]  
+> Este repositorio ha sido creado durante mis estudios, por lo que puede contener errores o no seguir las mejores prácticas. Se recomienda contrastar la información y tener en cuenta que esta forma de programar podría no ser la esperada o recomendada por su profesor. 
+
+<br>
 Si quieres aprobar la asignatura o aprender más sobre HTML, entra en:
 
 - Tutorial HTML: https://www.w3schools.com/html/default.asp 
@@ -8,6 +12,7 @@ Si quieres aprobar la asignatura o aprender más sobre HTML, entra en:
 
 - Fuentes de texto (Google): https://fonts.google.com/?preview.text=hola%0A
 
+<br>
 
 Si te ha gustado el material, te agradecería mucho que le dieras una estrella ⭐.
 
